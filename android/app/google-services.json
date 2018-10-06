@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "287778595720",
+    "firebase_url": "https://livechat-4acf7.firebaseio.com",
+    "project_id": "livechat-4acf7",
+    "storage_bucket": "livechat-4acf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287778595720:android:79edf39e95a220e4",
+        "android_client_info": {
+          "package_name": "com.livechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287778595720-ts54fnqik62746fr18e4jp8feg8cr5p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.livechat",
+            "certificate_hash": "1778a05be1a7f5cda8823279a4869d11ad24878e"
+          }
+        },
+        {
+          "client_id": "287778595720-5da9cb4pt0jj73v3q00nsuv0e9ls91gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL_wnkYRMVIyxdR8VuCnUQogA5pFfCWCQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287778595720-5da9cb4pt0jj73v3q00nsuv0e9ls91gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
